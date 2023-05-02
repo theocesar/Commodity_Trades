@@ -1,5 +1,5 @@
 # Commodity_Trades
- Big Data project using a global commodity trade dataset.
+ Big Data project using a global commodity trade dataset that contain transactions of the last 30 years.
  
  ## Queries:
  
