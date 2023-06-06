@@ -1,6 +1,11 @@
 # Commodity_Trades
  Big Data project using a global commodity trade dataset that contain transactions of the last 30 years.
  
+ ## Available Versions
+ - Hadoop using Java
+ - Apache Spark using Python
+ - SparkSQL using Python and SQL
+ 
  ## Queries:
  
  1) The number of transactions involving Brazil;
